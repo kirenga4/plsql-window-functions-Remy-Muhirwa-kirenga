@@ -112,5 +112,9 @@ FROM transactions t GROUP BY DATE_TRUNC('month',t.sale_date) ORDER BY month;
 - Engage top-quartile customers with loyalty programs or special offers.  
 - Monitor lower-performing months and regions to identify opportunities for growth.
 
+### REFERENCE
+PostgreSQL Documentation – Window Functions: https://www.postgresql.org/docs/current/functions-window.html
+Sqltutorial - https://www.sqltutorial.org/sql-window-functions/
+
 ## Integrity Statement
 All work in this assignment, including SQL queries, analyses, and explanations, was completed by me. All results and interpretations are my own.
