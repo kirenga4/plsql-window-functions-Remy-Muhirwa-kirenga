@@ -113,7 +113,6 @@ FROM transactions t GROUP BY DATE_TRUNC('month',t.sale_date) ORDER BY month;
 - Monitor lower-performing months and regions to identify opportunities for growth.
 
 ### REFERENCE
-PostgreSQL Documentation – Window Functions: https://www.postgresql.org/docs/current/functions-window.html
 Sqltutorial - https://www.sqltutorial.org/sql-window-functions/
 
 ## Integrity Statement
