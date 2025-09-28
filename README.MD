@@ -1,6 +1,6 @@
 # Individual Assignment I: PL/SQL Window Functions
 
-**Course:** Database Development with PL/SQL (INSY 8311)  
+**Course:** Database Development with PL/SQL (INSY 8311)  Group A
 **Name:** Muhirwa Kirenga Remy  
 **Student ID:** 28368  
 
